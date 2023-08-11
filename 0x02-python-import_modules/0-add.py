@@ -1,11 +1,11 @@
 #!/usr/bin/python3
+def add(a, b):
+    """My addition function
 
-add_module = __import__
+    Args:
+        a = 1
+        b = 2
 
-add = add_module.add
+ print ("{} + {} = {}".format(a,b add(a, b)))
 
-a = 1
-b = 2
 
-result = add(a, b)
-print("{} + {} = {}".format(a, b, result))
